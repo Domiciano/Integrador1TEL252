@@ -25,7 +25,8 @@ WIFI: F0rmul4-1
 </table>
 
 # Entrega 1
-
+Fecha de feedback: 8 de agosto <br>
+Fecha de entrega: 13 de agosto
 
 ## 1. Introducción
 Una buena introducción debe poder contextualizar al lector sobre el trabajo. En qué entorno nace el proyecto, posibles antecedentes y por qué el proyecto es una necesidad y en qué ayudaría a satisfacer esta necesidad, cómo se toman actualmente los datos y cómo un proyecto desplegado en la red contribuye al problema. Puede usar imágenes o ilustraciones que permitan al lector conocer el proyecto. Debe hacer de cuenta que el lector no tiene la menor idea del proyecto. 
