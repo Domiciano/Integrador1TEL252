@@ -32,6 +32,7 @@ Una buena introducción debe poder contextualizar al lector sobre el trabajo. En
 
 ## 2. Problema de ingeniería
 Debe poder describir el problema. ¿Cuál es el problema que se está solucionando?. Para esto primera haga una análisis causa-raíz y use un gráfico de arbol de problema donde las causas identificadas son las raíces del arbol, el problema es el tronco y las consecuencias son las hojas.
+Mayor información en este enlace <a href="https://github.com/Domiciano/Integrador1TEL252/blob/main/T1.%20Analisis/%C3%81rbol%20de%20problemas.pdf">Árbol de problemas</a>
 
 ## 3. Justificación
 Luego de analizar el problema, justifique por qué el uso de la tecnología y las comunicaciones soluciona el problema que han planteado.
