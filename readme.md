@@ -25,13 +25,15 @@ WIFI: F0rmul4-1
 </table>
 
 # Entrega 1
-
+Fecha de feedback: 8 de agosto <br>
+Fecha de entrega: 13 de agosto
 
 ## 1. Introducción
 Una buena introducción debe poder contextualizar al lector sobre el trabajo. En qué entorno nace el proyecto, posibles antecedentes y por qué el proyecto es una necesidad y en qué ayudaría a satisfacer esta necesidad, cómo se toman actualmente los datos y cómo un proyecto desplegado en la red contribuye al problema. Puede usar imágenes o ilustraciones que permitan al lector conocer el proyecto. Debe hacer de cuenta que el lector no tiene la menor idea del proyecto. 
 
 ## 2. Problema de ingeniería
 Debe poder describir el problema. ¿Cuál es el problema que se está solucionando?. Para esto primera haga una análisis causa-raíz y use un gráfico de arbol de problema donde las causas identificadas son las raíces del arbol, el problema es el tronco y las consecuencias son las hojas.
+Mayor información en este enlace <a href="https://github.com/Domiciano/Integrador1TEL252/blob/main/T1.%20Analisis/%C3%81rbol%20de%20problemas.pdf">Árbol de problemas</a>
 
 ## 3. Justificación
 Luego de analizar el problema, justifique por qué el uso de la tecnología y las comunicaciones soluciona el problema que han planteado.
