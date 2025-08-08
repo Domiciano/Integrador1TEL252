@@ -7,7 +7,7 @@ Vamos a iniciar con Springboot, para ello haremos las siguiente configuraciones
 Use el Springboot Initializer para crear un nuevo proyecto desde IntellJ Ultimate </br></br>
 
 A la lista de dependencias, agregue
-```
+```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
@@ -17,7 +17,7 @@ De esta forma nuestro repositorio tendrá lo necesario para comenzar un RestAPI 
 
 ### Punto de inicio
 Método main de nuestro repo
-```
+```java
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -33,7 +33,7 @@ public class App extends SpringBootServletInitializer {
 ```
 
 Ya con todas las condiciones iniciales puede agregar un controller
-```
+```java
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
