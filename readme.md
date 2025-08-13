@@ -94,19 +94,19 @@ Deberán identificar y documentar los requerimientos del proyecto utilizando el 
 
 <a href="https://alistairmavin.com/ears/">EARS Pattern</a>
 
-**1. Ubiquitous requirements (Requerimientos generales, aplican siempre)**
+**1. Ubiquitous requirements (Requerimientos generales, aplican siempre)**<br>
 El sistema debe permitir que el organizador cree un nuevo evento ingresando título, fecha, ubicación y descripción.
 
-**2. Event-driven requirements (Se activan por un evento específico)**
+**2. Event-driven requirements (Se activan por un evento específico)**<br>
 Cuando un usuario compre una entrada, el sistema debe enviar un correo electrónico de confirmación con el código QR y los detalles del evento.
 
-**3. State-driven requirements (Dependen del estado actual del sistema)**
+**3. State-driven requirements (Dependen del estado actual del sistema)**<br>
 Mientras un evento esté marcado como “En venta”, el sistema debe permitir a los usuarios adquirir entradas a través de la plataforma.
 
-**4. Unwanted behaviour requirements (Previenen o manejan comportamientos no deseados)**
+**4. Unwanted behaviour requirements (Previenen o manejan comportamientos no deseados)**<br>
 Si el pago de una entrada es rechazado, el sistema debe cancelar la reserva y notificar al usuario con un mensaje de error claro.
 
-**5. Optional requirements (Acciones opcionales, no críticas)**
+**5. Optional requirements (Acciones opcionales, no críticas)**<br>
 Donde sea posible, el sistema debe sugerir eventos similares al que el usuario está visualizando.
 
 
