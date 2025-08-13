@@ -86,12 +86,7 @@ En la introducción incluya al menos <b>4 referencias</b>, puede ubicarlas en la
   </tr>
 </table>
 
-# Monitor
-
-
-# Equipos
-
-## EQUIPO 1: 
-
-
-## EQUIPO 2:
+# Entrega 2
+Fecha de feedback: 8 de agosto <br>
+Fecha de entrega: 13 de agosto
+:
