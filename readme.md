@@ -87,6 +87,32 @@ En la introducción incluya al menos <b>4 referencias</b>, puede ubicarlas en la
 </table>
 
 # Entrega 2
-Fecha de feedback: 8 de agosto <br>
-Fecha de entrega: 13 de agosto
-:
+Fecha de feedback: 22 de agosto <br>
+Fecha de entrega: 27 de agosto
+## Requerimientos
+Deberán identificar y documentar los requerimientos del proyecto utilizando el patrón EARS (Easy Approach to Requirements Syntax). Este método les permitirá redactar requerimientos claros, consistentes y fáciles de validar, asegurando una mejor comprensión entre todos los miembros del equipo y los interesados en el proyecto. La entrega de esta asignación será un insumo clave para las siguientes fases de desarrollo, por lo que se espera que realicen un análisis cuidadoso y detallado.
+
+<a href="https://alistairmavin.com/ears/">EARS Pattern</a>
+
+**1. Ubiquitous requirements (Requerimientos generales, aplican siempre)**
+El sistema debe permitir que el organizador cree un nuevo evento ingresando título, fecha, ubicación y descripción.
+
+**2. Event-driven requirements (Se activan por un evento específico)**
+Cuando un usuario compre una entrada, el sistema debe enviar un correo electrónico de confirmación con el código QR y los detalles del evento.
+
+**3. State-driven requirements (Dependen del estado actual del sistema)**
+Mientras un evento esté marcado como “En venta”, el sistema debe permitir a los usuarios adquirir entradas a través de la plataforma.
+
+**4. Unwanted behaviour requirements (Previenen o manejan comportamientos no deseados)**
+Si el pago de una entrada es rechazado, el sistema debe cancelar la reserva y notificar al usuario con un mensaje de error claro.
+
+**5. Optional requirements (Acciones opcionales, no críticas)**
+Donde sea posible, el sistema debe sugerir eventos similares al que el usuario está visualizando.
+
+
+
+
+
+
+
+
