@@ -1,5 +1,6 @@
 # Taller práctico
 Entrega el 29 de Agosto
+
 https://miro.com/app/board/uXjVI6otAiE=/?share_link_id=751940168503
 
 El objetivo del taller práctico apunta al módulo de autenticación del proyecto integrador. 
