@@ -46,7 +46,7 @@ Si es así, entonces se devuelve la lista de usuarios.
 De lo contrario el server debe lanzar un stutus code `4XX` (encuentre el código adecuado a responder)
 
 ### Endpoint para eliminar usuario
-Este endpoint debe permitir eliminar a un usuario por su ID. 
+Este endpoint debe permitir eliminar a un usuario por su `email`. 
 
 Solo se elimina al usuario, si en el request se presenta un `token` generado por el backend.
 
