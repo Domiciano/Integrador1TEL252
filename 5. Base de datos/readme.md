@@ -42,14 +42,6 @@ Dependencias necesarias para crear clases que originan tablas en la base de dato
    <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
-Conector de MySQL
-```xml
-<dependency>
-   <groupId>mysql</groupId>
-   <artifactId>mysql-connector-java</artifactId>
-   <version>8.0.26</version>
-</dependency>
-```
 Conector de Postgres
 ```xml
 <dependency>
