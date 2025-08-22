@@ -1,6 +1,3 @@
-z
-
-
 # 1. Instalación de Postgres con Docker
 
 ```yml
