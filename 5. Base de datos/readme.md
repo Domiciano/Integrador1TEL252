@@ -1,7 +1,7 @@
 
 
 
-## 1. Instalación de Postgres con Docker
+# 1. Instalación de Postgres con Docker
 
 ```yml
 services:
