@@ -1,4 +1,4 @@
-
+z
 
 
 # 1. Instalación de Postgres con Docker
@@ -66,12 +66,6 @@ spring.jpa.hibernate.ddl-auto=update
 spring.datasource.username=<USER>
 spring.datasource.password=<PASS>
 spring.datasource.tomcat.max-active=10
-```
-
-Para MySQL debe agregar la propiedad
-```properties
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.url=jdbc:mysql://localhost:3306/<DB>
 ```
 
 Para Postgres debe agregar
