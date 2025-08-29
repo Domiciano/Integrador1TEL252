@@ -62,7 +62,6 @@ Agregue a src/main/resources un archivo llamado application.properties
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.username=<USER>
 spring.datasource.password=<PASS>
-spring.datasource.tomcat.max-active=10
 ```
 
 Para Postgres debe agregar
