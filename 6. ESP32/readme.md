@@ -1,4 +1,4 @@
-# Clase Integrador 3 de Septiembre
+# ESP32
 
 En esta clase aprenderemos a trabajar con **PlatformIO**, la comunicación serial, la conexión a WiFi y finalmente a consumir un servicio REST utilizando un `GET Request`.
 
