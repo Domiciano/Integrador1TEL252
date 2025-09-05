@@ -29,7 +29,7 @@ La respuesta será
 }
 ```
 
-> [!IMPORTANT]
+> [!NOTE]
 > Este endpoint será consumido por el ESP32
 
 > [!IMPORTANT]
