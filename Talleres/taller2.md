@@ -18,7 +18,7 @@ La respuesta del cliente debe ser
 
 No solo con el 4, sino con cualquier número de medida que el cliente haga. Por ejemplo si el cliente hace GET a 
 ```
-http://<IP>:<PORT>/measurements/9123`
+http://<IP>:<PORT>/measurements/9123
 ```
 
 La respuesta será
@@ -45,12 +45,12 @@ El cliente consiste en:
 - Si el ESP32 recibe `w` o `W`, el ESP32 se conecta al WiFi
 - Si el ESP32 recibe `1`, `2`, `3`, `4` y `5`, el ESP32 hace un GET al endpoint del estudiante A. Por ejemplo, si envía por puerto serie `3`, el ESP32 hace GET Request a
 ```
-http://<IP>:<PORT>/measurements/3`
+http://<IP>:<PORT>/measurements/3
 ```
 Donde la IP y el puerto corresponde al estudiante A
 - Si el ESP32 recibe `6`, `7`, `8`, `9` y `10`, el ESP32 hace un GET al endpoint del estudiante B. Por ejemplo, si envía por puerto serie `8`, el ESP32 hace GET Request a
 ```
-http://<IP>:<PORT>/measurements/8`
+http://<IP>:<PORT>/measurements/8
 ```
 Donde la IP y el puerto corresponde al estudiante B
 
