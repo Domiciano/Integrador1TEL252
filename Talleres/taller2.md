@@ -1,3 +1,4 @@
+Este seguimiento calificable es válido por el 5% de la nota de implementacion (50%)
 # Endpoint HTTP
 Individualmente haga un endpoint GET HTTP que consiste en:
 
