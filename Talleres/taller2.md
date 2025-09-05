@@ -2,7 +2,7 @@
 Individualmente haga un endpoint GET HTTP que consiste en:
 
 El cliente hacer HTTP GET al siguiente endpoint 
-```http
+```
 http://<IP>:<PORT>/measurements/4`
 ```
 
@@ -16,7 +16,7 @@ La respuesta del cliente debe ser
 ```
 
 No solo con el 4, sino con cualquier número de medida que el cliente haga. Por ejemplo si el cliente hace GET a 
-```http
+```
 http://<IP>:<PORT>/measurements/9123`
 ```
 
