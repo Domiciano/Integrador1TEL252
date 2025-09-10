@@ -53,5 +53,5 @@ Regularmente necesitaremos enviar estos objetos via POST a un endpoint de recepc
 
 ```cpp
 HTTPClient http;
-int httpResponseCode = http.POST("{\"api_key\":\"tPmAT5Ab3j7F9\",\"sensor\":\"BME280\",\"value1\":\"24.25\",\"value2\":\"49.54\",\"value3\":\"1005.14\"}");
+int httpResponseCode = http.POST("{\"value\":\"tPmAT5Ab3j7F9\"}");
 ```
