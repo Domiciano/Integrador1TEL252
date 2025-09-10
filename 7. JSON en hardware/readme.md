@@ -46,3 +46,12 @@ jsonArray[2] = 1020;
 
 object["key2"] = jsonArray;
 ```
+
+# POST Request
+Regularmente necesitaremos enviar estos objetos via POST a un endpoint de recepción de datos. Puede usar el método post del HTTPClient
+
+
+```cpp
+HTTPClient http;
+int httpResponseCode = http.POST("{\"api_key\":\"tPmAT5Ab3j7F9\",\"sensor\":\"BME280\",\"value1\":\"24.25\",\"value2\":\"49.54\",\"value3\":\"1005.14\"}");
+```
