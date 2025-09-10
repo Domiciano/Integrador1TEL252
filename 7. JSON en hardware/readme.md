@@ -55,3 +55,8 @@ Regularmente necesitaremos enviar estos objetos via POST a un endpoint de recepc
 HTTPClient http;
 int httpResponseCode = http.POST("{\"value\":\"tPmAT5Ab3j7F9\"}");
 ```
+
+# Almacenamiento
+Luego de generar datos random, crear objetos con la estructura de los sensores, alamcene la información una vez que esta viaje al backend
+
+
