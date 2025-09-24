@@ -23,3 +23,8 @@ Esta entrega deberá ser sustentada para la evaluación individual del proyecto.
 
 ## Fecha de entrega
 2 de octubre de 2025
+
+## Referencias útiles
+Puede usar este documento para hacer la conexión y uso de su sensor
+
+https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
