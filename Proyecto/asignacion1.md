@@ -15,7 +15,7 @@ Para la demo, puede utilizar un paciente ya creado en la base de datos de modo q
 ## Backend [20%]
 Cree un endpoint de tipo POST que le permita recibir la muestra de 2 segundos y almacenarla en Postgres
 
-Post request desde ESP32 [20%]
+## Post request desde ESP32 [20%]
 Finalmente con todo el escenario envíe la muestra y almacénela en la base de datos
 
 ## Sustentación [100%] Factor multiplicativo 
