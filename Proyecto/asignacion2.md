@@ -1,4 +1,7 @@
 # Administración de datos
+
+Entrega: 17 de octubre
+
 Desarrolle un módulo de administración de `Pacientes`, `Muestras` y `SensorData` que le permita *agregar*, *listar* y *eliminar* los datos de modo que pueda asignar muestras a un paicente.
 
 `[20%]` Creación de pacientes
