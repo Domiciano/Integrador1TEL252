@@ -70,3 +70,12 @@ host: broker.emqx.io
 port: 8083
 user: icesidomicianorincon123123
 ```
+Topic de datos
+```
+icesi/sensors/rengifo
+icesi/sensors/barbosa
+icesi/sensors/mosquera
+icesi/sensors/robledo
+icesi/sensors/mayor
+icesi/sensors/garcia
+```
