@@ -27,14 +27,11 @@ WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
 
 void callback(char* topic, byte* payload, unsigned int length) {
-  // Imprime el mensaje recibido
-  Serial.print("Mensaje recibido en el topic ");
-  Serial.print(topic);
-  Serial.print(": ");
+  String message = "";
   for (int i = 0; i < length; i++) {
-    Serial.print((char)payload[i]);
+    message += (char)payload[i];
   }
-  Serial.println();
+  Serial.println("Recibido: " + message);
 }
 
 void keepAlive(){
